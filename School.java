@@ -3,6 +3,7 @@ import java.util.Scanner;
 //o tower é que é
 //afinal o micael e que e gay
 //qualquer merda223
+// testes 123
 public class School {
     public static void main(String [] args){
 
