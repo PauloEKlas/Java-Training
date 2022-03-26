@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//o paulo é gay
 public class School {
     public static void main(String [] args){
 
