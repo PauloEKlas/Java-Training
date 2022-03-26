@@ -1,6 +1,7 @@
 import java.util.Scanner;
 //o paulo é gay
 //o tower é que é
+//afinal o micael e que e gay
 public class School {
     public static void main(String [] args){
 
