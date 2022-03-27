@@ -5,6 +5,7 @@ import java.util.Scanner;
 //qualquer merda223
 // testes 123
 // durante o dia trabalho neste codigo porque sou fixe
+// e se nao acabei ou nao me sinto confortavel a colocar online porqque nao acabei o codigo
 public class School {
     public static void main(String [] args){
 
