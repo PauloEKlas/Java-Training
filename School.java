@@ -4,7 +4,7 @@ import java.util.Scanner;
 //afinal o micael e que e gay
 //qualquer merda223
 // testes 123
-// durante o dia trabalho neste codigo
+// durante o dia trabalho neste codigo porque sou fixe
 public class School {
     public static void main(String [] args){
 
